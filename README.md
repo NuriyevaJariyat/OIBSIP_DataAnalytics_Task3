@@ -1,4 +1,11 @@
 # Credit Card Fraud Detection
+## Dataset
+
+**Source:** https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?utm_source=chatgpt.com
+
+The dataset contains sales transaction data, including customer demographics, product categories, order quantities, costs, revenue, and profit.
+
+**Note:** The dataset is used for educational and analytical purposes.
 
 ## Project Overview
 
